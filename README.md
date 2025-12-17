@@ -1,13 +1,48 @@
-- 👋 Hi, I’m @prashantpurwar12  
-- 👨‍💻 I’m a passionate developer focused on Java problem-solving and MERN Full Stack Development  
-- 🌱 Currently enhancing my skills in React, Node.js, Express, MongoDB, and Data Structures with Java  
-- 💞️ Open to collaborating on innovative web applications and real-world problem-solving projects  
-- 🚀 Interested in building scalable, user-friendly, and performance-driven web solutions  
-- 📫 How to reach me: https://www.linkedin.com/in/prashant-purwar-230966264/ | work.prashantpurwar@gmail.com  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I enjoy turning complex problems into clean, efficient code and love exploring new tech trends
+# Hi, I'm Prashant 👋
 
-<!---
-prashantpurwar12/prashantpurwar12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Java Full-Stack Developer | MERN Stack | Backend & Web Application Development
+
+I am a Java Full-Stack Developer with hands-on experience in building backend-driven and full-stack web applications. I have practical exposure to the MERN stack and a strong foundation in designing scalable, secure, and maintainable systems. During my CodSoft internship, I worked on real-world projects that strengthened my understanding of application architecture, database design, and backend workflows.
+
+---
+
+## 🚀 Selected Projects
+
+- **StudDesk** – Student Management System built using Java, MVC architecture, and MySQL  
+- **VaultX** – Secure web-based ATM simulation with transaction handling and session management  
+- **CrisisConnect** – Emergency assistance web platform focused on real-world problem solving  
+
+👉 Detailed implementations are available in my pinned repositories.
+
+---
+
+## 🛠 Technical Skills
+
+- **Languages:** Java, JavaScript, SQL  
+- **Backend:** Java Servlets, JSP, JDBC, Node.js, Express.js, RESTful APIs  
+- **Frontend:** HTML5, CSS3, JavaScript, React.js  
+- **Databases:** MySQL, MongoDB  
+- **Architecture:** MVC, DAO Pattern, Layered Architecture  
+- **Tools:** Maven, Git, Apache Tomcat, npm  
+
+---
+
+## 📘 Professional Experience
+
+**CodSoft – Java Full-Stack Developer Intern**
+- Developed multiple production-style web applications  
+- Worked with MVC architecture and database-driven systems  
+- Implemented validation, session management, and secure coding practices  
+- Gained experience in deployment and version control  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/prashantpurwar12  
+- LinkedIn: https://www.linkedin.com/in/prashant-purwar-230966264/  
+- Email: work.prashantpurwar@gmail.com  
+
+---
+
+⭐ Open to learning, collaboration, and new opportunities.
