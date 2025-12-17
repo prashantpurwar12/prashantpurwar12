@@ -1,3 +1,5 @@
+![github-banner](github-banner.png)
+
 # Hi, I'm Prashant 👋
 
 Java Full-Stack Developer | MERN Stack | Backend Development
