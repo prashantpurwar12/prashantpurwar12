@@ -1,4 +1,4 @@
-![github-banner](github-banner.png)
+![github-banner](gihub-banner.png)
 
 # Hi, I'm Prashant 👋
 
