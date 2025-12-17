@@ -2,7 +2,9 @@
 
 Java Full-Stack Developer | MERN Stack | Backend & Web Application Development
 
-I am a Java Full-Stack Developer with hands-on experience in building backend-driven and full-stack web applications. I have practical exposure to the MERN stack and a strong foundation in designing scalable, secure, and maintainable systems. During my CodSoft internship, I worked on real-world projects that strengthened my understanding of application architecture, database design, and backend workflows.
+I am a Java Full-Stack Developer with hands-on experience in building backend-driven and full-stack web applications. I have practical exposure to the MERN stack and a strong foundation in designing scalable, secure, and maintainable systems.
+
+During my internship at **CodSoft**, I worked on real-world projects that strengthened my understanding of backend development, database design, application architecture, and clean coding practices.
 
 ---
 
@@ -24,16 +26,6 @@ I am a Java Full-Stack Developer with hands-on experience in building backend-dr
 - **Databases:** MySQL, MongoDB  
 - **Architecture:** MVC, DAO Pattern, Layered Architecture  
 - **Tools:** Maven, Git, Apache Tomcat, npm  
-
----
-
-## 📘 Professional Experience
-
-**CodSoft – Java Full-Stack Developer Intern**
-- Developed multiple production-style web applications  
-- Worked with MVC architecture and database-driven systems  
-- Implemented validation, session management, and secure coding practices  
-- Gained experience in deployment and version control  
 
 ---
 
